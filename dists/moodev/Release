@@ -1,0 +1,30 @@
+Origin: Moo Repository
+Label: Streaming
+Suite: development
+Codename: moodev
+Version: 1.0
+Architectures: arm64
+Components: base extras
+Description: moo repository
+Date: Tue, 27 Jun 2023 11:21:03 +0000
+MD5Sum:
+ 5c176a33008a16a759818220cf31e8d8 5515628 extras/binary-arm64/dev_moo-docker_0.0.1_arm64.deb
+ be5037d419e1b85bb4b77cd364d0bd34 451 extras/binary-arm64/Packages
+ 1517307defa52f72839c5271c2ea8712 24588 base/binary-arm64/dev_srtla_0.0.1_arm64.deb
+ a705793e6f3a0f6ec47b452c00d3d0df 1318 base/binary-arm64/Packages
+ 59ab50600d90db6be53e419ca3a33af4 5516604 base/binary-arm64/dev_moowss-client_0.1.1_arm64.deb
+ 5ed3c1dab489ff7a170e830c0f5013c1 10492 base/binary-arm64/dev_belacoder_0.0.1_arm64.deb
+SHA1:
+ 7c3012e03eadfbb23306f493f13f6e6077edebab 5515628 extras/binary-arm64/dev_moo-docker_0.0.1_arm64.deb
+ 571a36592b2cd4c27796da28f513c325b4254b91 451 extras/binary-arm64/Packages
+ 16ff8e9b912d97a4e5d74fb3cb1032f743c7c76e 24588 base/binary-arm64/dev_srtla_0.0.1_arm64.deb
+ f93ca6ddeac47290c1c40109a6ceef3f8a90520c 1318 base/binary-arm64/Packages
+ b4e35db84d4e39d2653e8f9d571c2e0c4a097e6c 5516604 base/binary-arm64/dev_moowss-client_0.1.1_arm64.deb
+ 4d5a27bf2c3252a44724195faf5952989ee8a9f0 10492 base/binary-arm64/dev_belacoder_0.0.1_arm64.deb
+SHA256:
+ cc83a516523081cb46060a6366345d5aadf9e808b8a20fe5df06ed77af11f3a8 5515628 extras/binary-arm64/dev_moo-docker_0.0.1_arm64.deb
+ c42bfec7a05cdcc78414cf17bdc4138533bf61683e4a8f8056ffd9eca2da1ef1 451 extras/binary-arm64/Packages
+ ab29276fb03df17433ee162fe0bfb1dea145aad0e8430aa966827db2ac64585e 24588 base/binary-arm64/dev_srtla_0.0.1_arm64.deb
+ f9f9ab3ead46f8f20ef8136e52e47519c1f1209f451e240c66a39c5da0206a9f 1318 base/binary-arm64/Packages
+ f4ed3d1cc84f61445b74bdcc82413ac08b4e5ac58f861cf204d0a107eda98c56 5516604 base/binary-arm64/dev_moowss-client_0.1.1_arm64.deb
+ 338943c688d83513fd8822bde837114f300ba85947aa0a227b0d34fd71871764 10492 base/binary-arm64/dev_belacoder_0.0.1_arm64.deb

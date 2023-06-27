@@ -1,0 +1,36 @@
+Package: docker
+Version: 0.0.1
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moo/base/binary-arm64/stable_belacoder_0.0.1_arm64.deb
+Size: 10496
+MD5sum: 62011ceed22800a9864c1dac5a31f973
+SHA1: c985ce1a530b36c66e26c99464f2a2c31f307c13
+SHA256: 39b94cb7019f7aa7b5655c3d2cddf844bbdcbfa7d72ea2959c150caf71330a1a
+Homepage: https://github.com/moo-the-cow
+Description: Docker compose files for srtla nginx and rtmp nginx
+
+Package: moowss-client
+Version: 0.1.0
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moo/base/binary-arm64/stable_moowss-client_0.1.1_arm64.deb
+Size: 5516460
+MD5sum: d39acf53965686c4ca891e532993bfe1
+SHA1: 4f2ab097e74a5df43dab5ab8be64539129a94bc5
+SHA256: edb7e27eecef7c68b6893efcacb70180886f01e96538012cd6f334b405ec30c8
+Homepage: https://github.com/moo-the-cow
+Description: Streaming UI Websocket Client in dotnet core
+
+Package: srtla
+Version: 0.0.1
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moo/base/binary-arm64/stable_srtla_0.0.1_arm64.deb
+Size: 24584
+MD5sum: bef7c8017d733ad59d92d15fa7fdface
+SHA1: 50e8d59a8fa71fb7f8fde9c0795a558b233b1d95
+SHA256: 7dc4769ce56cbccb3771440b2ddd5404097857b7b6231b35385dbb6e50c51bbe
+Homepage: https://github.com/moo-the-cow
+Description: SRT SENDER with bonding/grouping activated
+
